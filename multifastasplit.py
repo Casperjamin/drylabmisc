@@ -2,6 +2,8 @@
 Casper Jamin 2019-10-19
 this python script takes a fasta file with multiple entries
 and splits them into seperate fasta files
+
+required python3.6 as I like f-strings
 """
 
 from Bio import SeqIO
